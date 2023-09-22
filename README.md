@@ -1,9 +1,8 @@
 # Cybersecurity Analyst
 
 ### Education
-blah
+baaa baaa 
 
-blah
 
 ### Work Experience
 - yada
