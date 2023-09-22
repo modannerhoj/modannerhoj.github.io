@@ -2,6 +2,7 @@
 
 ### Education
 blah
+
 blah
 
 ### Work Experience
