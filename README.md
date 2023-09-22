@@ -2,7 +2,6 @@
 
 ### Education
 baaa
-
 baaa 
 
 
